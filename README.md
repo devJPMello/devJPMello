@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20b2aa&height=120&section=header"/>
 
-<h1 align="center">Hi 👋, I'm João Pedro Mello/h1>
+<h1 align="center">Hi 👋, I'm João Pedro Mello </h1>
 <h3 align="center">A passionate Front-End developer from Brazil</h3><br>
 
 
-- 🌱 I’m currently learning **React, Next.js, NestJS and English**
+- 🌱 I’m currently learning **Node.JS, Express, Next.Js and English**
 
-- 💬 Ask me about **Next.js, React, Bootstrap, Node.JS, TypeScript**
+- 💬 Ask me about **React, React Native, TypeScript e JavaScript**
 
 - 📫 How to reach me **joaopedromendesmello@gmail.com**
 
