@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20b2aa&height=120&section=header"/>
 
-<h1 align="center">Hi 👋, I'm João Pedro Mello </h1>
+<h1 align="center">Hi 👋, I'm João Pedro Mendes de Mello </h1>
 <h3 align="center">A passionate Front-End developer from Brazil</h3><br>
 
 - 🔭 I’m currently working as a freelancer.
