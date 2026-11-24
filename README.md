@@ -11,11 +11,6 @@
 
 - 📫 How to reach me **joaopedromendesmello@gmail.com**
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devJPMello&show_icons=true&bg_color=00000000&ring_color=20b2aa&text_color=20b2aa&title_color=20b2aa&icon_color=20b2aa&include_all_commits=true" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devJPMello&layout=compact&show_icons=true&bg_color=00000000&ring_color=20b2aa&text_color=20b2aa&title_color=20b2aa&icon_color=20b2aa"/>
-</div>
 <br>
 
 <div align="center"> 
